@@ -1,0 +1,189 @@
+html{background-color: black;}
+
+h1{
+text-align: center;
+margin-top: 5px;
+margin-bottom: 5px;
+}
+
+h2 {
+  text-align: left;
+}
+
+
+body {
+  background-color: #FFF;
+  height: 850px;
+  width: 750px;
+  margin:auto;
+}
+
+
+ul {
+  margin: 0; 
+    background-color:#424242;
+  border: #FFF solid 5px;
+  padding-left: 0; 
+  height: 35px;
+      border-bottom-style: none;
+}
+
+
+/*  display: inline-block; https://www.alsacreations.com/astuce/lire/1432-display-inline-block-espaces-indesirables.html */
+li {
+  display: inline-block;
+  list-style: none;
+  padding: 10px;
+  font-weight: bold;
+}
+
+.FindThePrecious {
+  color: #B2B2B2;
+}
+
+.fellows {
+  background-color: #E0E0E0;
+  text-align: center;
+  font-size: 0.8em;
+  color: #9E9E9E;
+  padding-top: 15px;
+}
+
+
+
+
+.contact {
+  color: #B2B2B2;
+  font-size: 0.8em;
+}
+
+
+
+.carousel {
+  display: block;
+  background-color :#E1E1E1;;
+  height: 200px;
+  margin-bottom: 30px;
+  margin-left: 5px;
+  margin-right: 5px;
+  border-top: 1px solid #424242;
+}
+
+
+  
+.fellows_gras {
+  font-size: smaller;
+  font-weight: bolder;
+  font-size: 1.2em;
+  opacity: 0.5;
+}
+
+.alive {
+  font-size: 1.2em;
+  opacity: 0.5;
+  font-size: x-small;
+}
+
+
+
+
+
+article {
+  background-color: #E1E1E1;
+  display: inline-block;
+  width: 207px;
+  height: 200px;
+  padding: 15px 15px 15px;
+  opacity: 1;
+}
+
+#article1 {
+  margin: 0 5px 25px 10px;
+}
+
+#article2 {
+  margin: 25px 5px 25px 0;
+}
+
+#article3 {
+  margin: 0 5px 25px 0;
+}
+
+form {
+  display: block;
+}
+
+.contact_us {
+  color: #B4B4B4;
+  border-top: 2px solid #B4B4B4;
+  padding-top: 10px;
+  margin-left: 10px;
+  } 
+
+#email {
+  margin: 0 0 10px 70px;
+  border-color:  #B4B4B4;
+
+}
+
+
+#text1 {
+  margin: 0 0 10px 70px;
+  border-color:#B4B4B4;
+
+}
+
+
+#message {
+  margin: 0 0 10px 70px;
+  border-color:#B4B4B4;
+  
+}
+
+input {
+  display: block;
+  height: 100%;
+}
+
+form {
+  opacity: 1;
+}
+
+
+textarea {
+  display: block;
+  padding-bottom: 50px;
+  font-size: 8px;
+  border: 2px solid #B4B4B4;
+}
+
+input,
+textarea {
+  width: 80%;
+}
+
+#text {
+  width: 81%;
+  height: 20px;
+  opacity: 0.5;
+  font-size: 0.6em;
+  margin: 0 0 10px 70px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
